@@ -54,3 +54,16 @@
       </div>
     </div>
 
+    <ul>
+
+      <li><span class="date">2024/7/25</span><a href="url"><span class="list">見だし　この文章はダミーです</span></a></li>
+      <li><span class="date">2024/7/25</span><a href="url"><span class="list">見出し　この文章はダミーです</span></a></li>
+      <li><span class="date">2024/7/25</span><a href="url"><span class="list">見出し　この文章はダミーです</span></a></li>
+      <li><span class="date">2024/7/25</span><span class="list"><a href="url">見出し　この文章はダミーです</a></span></li>
+      
+    </ul>
+    </div>
+
+
+</body>
+</html>
